@@ -1,0 +1,7282 @@
+[
+  {
+    "game_id": 22100013,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "SAC",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100033,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "PHX",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100049,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "LAC",
+    "vtm": "POR",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100063,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "MEM",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100076,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "LAC",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100090,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "CHA",
+    "vtm": "POR",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100096,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "PHI",
+    "vtm": "POR",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100108,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "CLE",
+    "vtm": "POR",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100131,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "IND",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100138,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "LAL",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100157,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "LAC",
+    "vtm": "POR",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100168,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "PHX",
+    "vtm": "POR",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100177,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "HOU",
+    "vtm": "POR",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100197,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "DEN",
+    "vtm": "POR",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100208,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "TOR",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100223,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "CHI",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100246,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "PHI",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100265,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "DEN",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100279,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "SAC",
+    "vtm": "POR",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100290,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "GSW",
+    "vtm": "POR",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100312,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "UTA",
+    "vtm": "POR",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100317,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "DET",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100332,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "SAS",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100347,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "BOS",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100362,
+    "team1_id": 1610612757,
+    "team1_name": "Portland Trail Blazers",
+    "htm": "POR",
+    "vtm": "LAC",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100011,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "UTA",
+    "vtm": "OKC",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100023,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "HOU",
+    "vtm": "OKC",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100038,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "PHI",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100051,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "GSW",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100061,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "LAL",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100086,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "GSW",
+    "vtm": "OKC",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100102,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "LAC",
+    "vtm": "OKC",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100123,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "LAL",
+    "vtm": "OKC",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100144,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "SAS",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100165,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "NOP",
+    "vtm": "OKC",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100180,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "SAC",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100196,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "BKN",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100207,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "MIA",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100221,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "HOU",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100234,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "MIL",
+    "vtm": "OKC",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100243,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "BOS",
+    "vtm": "OKC",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100255,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "ATL",
+    "vtm": "OKC",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100276,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "UTA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100286,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "WAS",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100308,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "HOU",
+    "vtm": "OKC",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100326,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "OKC",
+    "vtm": "HOU",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100330,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "MEM",
+    "vtm": "OKC",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100354,
+    "team1_id": 1610612760,
+    "team1_name": "Oklahoma City Thunder",
+    "htm": "DET",
+    "vtm": "OKC",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100015,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "MIL",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100028,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "IND",
+    "vtm": "MIA",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100045,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "ORL",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100057,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "BKN",
+    "vtm": "MIA",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100073,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "CHA",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100084,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MEM",
+    "vtm": "MIA",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100104,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "DAL",
+    "vtm": "MIA",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100121,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "BOS",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100134,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "UTA",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100151,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "DEN",
+    "vtm": "MIA",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100170,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "LAL",
+    "vtm": "MIA",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100173,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "LAC",
+    "vtm": "MIA",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100185,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "UTA",
+    "vtm": "MIA",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100217,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "NOP",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100225,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "WAS",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100241,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "WAS",
+    "vtm": "MIA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100263,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "DET",
+    "vtm": "MIA",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100274,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIN",
+    "vtm": "MIA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100296,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "CHI",
+    "vtm": "MIA",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100306,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "DEN",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100323,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "CLE",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100333,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "IND",
+    "vtm": "MIA",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100344,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIL",
+    "vtm": "MIA",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100356,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "MIA",
+    "vtm": "MEM",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100010,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "ORL",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100024,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "DEN",
+    "vtm": "SAS",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100032,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "MIL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100053,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "LAL",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100069,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "DAL",
+    "vtm": "SAS",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100085,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "MIL",
+    "vtm": "SAS",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100095,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "IND",
+    "vtm": "SAS",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100116,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "DAL",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100125,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "ORL",
+    "vtm": "SAS",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100166,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "SAC",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100181,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "DAL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100192,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "LAL",
+    "vtm": "SAS",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100212,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "LAC",
+    "vtm": "SAS",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100227,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "MIN",
+    "vtm": "SAS",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100260,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "PHX",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100277,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "ATL",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100287,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "BOS",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100311,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "WAS",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100346,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "GSW",
+    "vtm": "SAS",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100360,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "PHX",
+    "vtm": "SAS",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100364,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "SAS",
+    "vtm": "NYK",
+    "game_date": "2021-12-07",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100009,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "PHI",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100022,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "CHI",
+    "vtm": "NOP",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100031,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "MIN",
+    "vtm": "NOP",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100047,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "MIN",
+    "vtm": "NOP",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100059,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "ATL",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100074,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "SAC",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100080,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "NYK",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100106,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "PHX",
+    "vtm": "NOP",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100118,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "SAC",
+    "vtm": "NOP",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100130,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "GSW",
+    "vtm": "NOP",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100150,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "DAL",
+    "vtm": "NOP",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100179,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "BKN",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100188,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "MEM",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100201,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "WAS",
+    "vtm": "NOP",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100235,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "LAC",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100240,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "IND",
+    "vtm": "NOP",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100259,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "MIN",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100275,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "WAS",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100289,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "UTA",
+    "vtm": "NOP",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100299,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "UTA",
+    "vtm": "NOP",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100313,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "LAC",
+    "vtm": "NOP",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100325,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "DAL",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100338,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "DAL",
+    "vtm": "NOP",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100352,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "HOU",
+    "vtm": "NOP",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100007,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "CLE",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100034,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "LAC",
+    "vtm": "MEM",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100040,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "LAL",
+    "vtm": "MEM",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100070,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "GSW",
+    "vtm": "MEM",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100100,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "DEN",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100114,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "DEN",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100126,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "WAS",
+    "vtm": "MEM",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100149,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "MIN",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100164,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "CHA",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100178,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "PHX",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100205,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "HOU",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100226,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "LAC",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100245,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MIN",
+    "vtm": "MEM",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100261,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "UTA",
+    "vtm": "MEM",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100272,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "TOR",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100285,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "ATL",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100303,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "SAC",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100315,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "TOR",
+    "vtm": "MEM",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100345,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "DAL",
+    "vtm": "MEM",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100001,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "MIL",
+    "vtm": "BKN",
+    "game_date": "2021-10-19",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100021,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "PHI",
+    "vtm": "BKN",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100035,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "CHA",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100044,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "WAS",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100072,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "IND",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100092,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "DET",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100113,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "ATL",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100124,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "DET",
+    "vtm": "BKN",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100139,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "TOR",
+    "vtm": "BKN",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100148,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "CHI",
+    "vtm": "BKN",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100159,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "ORL",
+    "vtm": "BKN",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100210,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "GSW",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100216,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "CLE",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100233,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "ORL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100253,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "CLE",
+    "vtm": "BKN",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100270,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BOS",
+    "vtm": "BKN",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100294,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "PHX",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100314,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "NYK",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100336,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "MIN",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100343,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "CHI",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100363,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "DAL",
+    "vtm": "BKN",
+    "game_date": "2021-12-07",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100018,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "NYK",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100036,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "NYK",
+    "vtm": "ORL",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100055,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "CHA",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100071,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "TOR",
+    "vtm": "ORL",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100079,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "DET",
+    "vtm": "ORL",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100101,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "MIN",
+    "vtm": "ORL",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100110,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "BOS",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100141,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "UTA",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100187,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "WAS",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100202,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ATL",
+    "vtm": "ORL",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100218,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "NYK",
+    "vtm": "ORL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100244,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "MIL",
+    "vtm": "ORL",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100258,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "MIL",
+    "vtm": "ORL",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100269,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "CHA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100283,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "CHI",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100295,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "CLE",
+    "vtm": "ORL",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100305,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "PHI",
+    "vtm": "ORL",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100320,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "DEN",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100337,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "HOU",
+    "vtm": "ORL",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100361,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "GSW",
+    "vtm": "ORL",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100042,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "IND",
+    "vtm": "MIL",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100060,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "MIN",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100091,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "UTA",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100103,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "DET",
+    "vtm": "MIL",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100128,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "NYK",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100142,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "WAS",
+    "vtm": "MIL",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100155,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "PHI",
+    "vtm": "MIL",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100161,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "NYK",
+    "vtm": "MIL",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100175,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "BOS",
+    "vtm": "MIL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100193,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "ATL",
+    "vtm": "MIL",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100219,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "LAL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100273,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "DET",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100288,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "DEN",
+    "vtm": "MIL",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100301,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "IND",
+    "vtm": "MIL",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100324,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "CHA",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100329,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "TOR",
+    "vtm": "MIL",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100358,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "CLE",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100002,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "GSW",
+    "game_date": "2021-10-19",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100025,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "PHX",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100077,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "CLE",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100093,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "HOU",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100107,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "HOU",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100154,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "CHA",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100184,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "MIN",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100209,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "CHI",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100232,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "BOS",
+    "vtm": "LAL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100249,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "DET",
+    "vtm": "LAL",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100264,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "NYK",
+    "vtm": "LAL",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100268,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "IND",
+    "vtm": "LAL",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100291,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "SAC",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100304,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "DET",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100318,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "SAC",
+    "vtm": "LAL",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100341,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "LAC",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100006,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "WAS",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100020,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "BOS",
+    "vtm": "TOR",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100029,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "DAL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100046,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "CHI",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100058,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "IND",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100081,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "IND",
+    "vtm": "TOR",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100099,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "NYK",
+    "vtm": "TOR",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100112,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "WAS",
+    "vtm": "TOR",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100127,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "CLE",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100160,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "BOS",
+    "vtm": "TOR",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100171,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "PHI",
+    "vtm": "TOR",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100189,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "DET",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100229,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "UTA",
+    "vtm": "TOR",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100238,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "SAC",
+    "vtm": "TOR",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100252,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "GSW",
+    "vtm": "TOR",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100284,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "IND",
+    "vtm": "TOR",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100302,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "BOS",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100351,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "WAS",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100004,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "DET",
+    "vtm": "CHI",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100030,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "DET",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100067,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "NYK",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100083,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "UTA",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100098,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "BOS",
+    "vtm": "CHI",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100111,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "PHI",
+    "vtm": "CHI",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100135,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "PHI",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100163,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "DAL",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100183,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "GSW",
+    "vtm": "CHI",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100198,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "LAC",
+    "vtm": "CHI",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100236,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "DEN",
+    "vtm": "CHI",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100250,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "NYK",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100257,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "IND",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100271,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "HOU",
+    "vtm": "CHI",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100307,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "CHA",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100328,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "NYK",
+    "vtm": "CHI",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100357,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "DEN",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100012,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "DEN",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100062,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "SAC",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100088,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "CLE",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100122,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "HOU",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100137,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "ATL",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100153,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "SAC",
+    "vtm": "PHX",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100195,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "HOU",
+    "vtm": "PHX",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100206,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "MIN",
+    "vtm": "PHX",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100222,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "DAL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100237,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "DAL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100251,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "DEN",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100267,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "CLE",
+    "vtm": "PHX",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100282,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "NYK",
+    "vtm": "PHX",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100316,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "GSW",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100331,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "DET",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100340,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "GSW",
+    "vtm": "PHX",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100003,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "IND",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100017,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CLE",
+    "vtm": "CHA",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100041,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "BOS",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100094,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "CLE",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100117,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "GSW",
+    "vtm": "CHA",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100132,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "SAC",
+    "vtm": "CHA",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100146,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "LAC",
+    "vtm": "CHA",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100174,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "NYK",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100194,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "GSW",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100213,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "WAS",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100230,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "IND",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100242,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "ATL",
+    "vtm": "CHA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100254,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "WAS",
+    "vtm": "CHA",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100281,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "MIN",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100297,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "HOU",
+    "vtm": "CHA",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100350,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "ATL",
+    "vtm": "CHA",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100353,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "PHI",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100026,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "UTA",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100039,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "GSW",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100089,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "DAL",
+    "vtm": "SAC",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100105,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "UTA",
+    "vtm": "SAC",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100143,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "IND",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100200,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "DET",
+    "vtm": "SAC",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100220,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "MIN",
+    "vtm": "SAC",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100247,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "UTA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100262,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "PHI",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100327,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "LAC",
+    "vtm": "SAC",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100348,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "LAC",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100014,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "ATL",
+    "vtm": "DAL",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100052,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "HOU",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100075,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DEN",
+    "vtm": "DAL",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100136,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "BOS",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100204,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "DEN",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100248,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "LAC",
+    "vtm": "DAL",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100266,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "LAC",
+    "vtm": "DAL",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100298,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "WAS",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100310,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "CLE",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100005,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "BOS",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100050,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "PHI",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100109,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "IND",
+    "vtm": "NYK",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100140,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "CLE",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100147,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "PHI",
+    "vtm": "NYK",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100203,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "IND",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100239,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "HOU",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100293,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "ATL",
+    "vtm": "NYK",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100342,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "DEN",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100048,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "CLE",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100054,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "UTA",
+    "vtm": "DEN",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100087,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "MIN",
+    "vtm": "DEN",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100133,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "HOU",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100167,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "IND",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100182,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "ATL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100228,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "PHI",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100019,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "IND",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100056,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "BOS",
+    "vtm": "WAS",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100066,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "ATL",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100078,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "BOS",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100097,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "ATL",
+    "vtm": "WAS",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100158,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "CLE",
+    "vtm": "WAS",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100321,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "MIN",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100334,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "CLE",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100355,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "IND",
+    "vtm": "WAS",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100008,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "HOU",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100115,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "LAC",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100129,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "LAC",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100169,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "GSW",
+    "vtm": "MIN",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100191,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "LAC",
+    "vtm": "MIN",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100292,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "PHI",
+    "vtm": "MIN",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100309,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "IND",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100359,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "ATL",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100027,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "ATL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100064,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "LAC",
+    "vtm": "CLE",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100176,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "DET",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100190,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "BOS",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100199,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "BOS",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100224,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "GSW",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100349,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "UTA",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100043,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "DET",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100082,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "PHI",
+    "vtm": "ATL",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100120,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "UTA",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100152,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "GSW",
+    "vtm": "ATL",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100156,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "UTA",
+    "vtm": "ATL",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100215,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "BOS",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100319,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "IND",
+    "vtm": "ATL",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100335,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "PHI",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100016,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "GSW",
+    "vtm": "LAC",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100280,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "DET",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100300,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "GSW",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100172,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "UTA",
+    "vtm": "IND",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100186,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "PHI",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100214,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "DET",
+    "vtm": "IND",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100068,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "HOU",
+    "vtm": "UTA",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100211,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "PHI",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100339,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "BOS",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100065,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "PHI",
+    "vtm": "DET",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100119,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "PHI",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100162,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "HOU",
+    "vtm": "DET",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100231,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "GSW",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100145,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "HOU",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100278,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "PHI",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100322,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "BOS",
+    "vtm": "PHI",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100037,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "HOU",
+    "vtm": "BOS",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100256,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "HOU",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612745,
+    "team2_name": "Houston Rockets"
+  },
+  {
+    "game_id": 22100013,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "POR",
+    "vtm": "SAC",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100033,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "POR",
+    "vtm": "PHX",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100049,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "POR",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100063,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "POR",
+    "vtm": "MEM",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100076,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "POR",
+    "vtm": "LAC",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100090,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHA",
+    "vtm": "POR",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100096,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "POR",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100108,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "POR",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100131,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "POR",
+    "vtm": "IND",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100138,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "POR",
+    "vtm": "LAL",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100157,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "POR",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100168,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "POR",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100177,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "POR",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100197,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "POR",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100208,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "POR",
+    "vtm": "TOR",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100223,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "POR",
+    "vtm": "CHI",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100246,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "POR",
+    "vtm": "PHI",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100265,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "POR",
+    "vtm": "DEN",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100279,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "POR",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100290,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "POR",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100312,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "POR",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100317,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "POR",
+    "vtm": "DET",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100332,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "POR",
+    "vtm": "SAS",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100347,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "POR",
+    "vtm": "BOS",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100362,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "POR",
+    "vtm": "LAC",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612757,
+    "team2_name": "Portland Trail Blazers"
+  },
+  {
+    "game_id": 22100011,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "OKC",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100023,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "OKC",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100038,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "OKC",
+    "vtm": "PHI",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100051,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "OKC",
+    "vtm": "GSW",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100061,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "OKC",
+    "vtm": "LAL",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100086,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "OKC",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100102,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "OKC",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100123,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "OKC",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100144,
+    "team1_id": 1610612759,
+    "team1_name": "San Antonio Spurs",
+    "htm": "OKC",
+    "vtm": "SAS",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100165,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "NOP",
+    "vtm": "OKC",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100180,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "OKC",
+    "vtm": "SAC",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100196,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "OKC",
+    "vtm": "BKN",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100207,
+    "team1_id": 1610612748,
+    "team1_name": "Miami Heat",
+    "htm": "OKC",
+    "vtm": "MIA",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100221,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "OKC",
+    "vtm": "HOU",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100234,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "OKC",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100243,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "OKC",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100255,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "OKC",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100276,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "OKC",
+    "vtm": "UTA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100286,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "OKC",
+    "vtm": "WAS",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100308,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "OKC",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100326,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "OKC",
+    "vtm": "HOU",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100330,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "OKC",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100354,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "OKC",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612760,
+    "team2_name": "Oklahoma City Thunder"
+  },
+  {
+    "game_id": 22100015,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIA",
+    "vtm": "MIL",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100028,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "MIA",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100045,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "MIA",
+    "vtm": "ORL",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100057,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "BKN",
+    "vtm": "MIA",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100073,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "MIA",
+    "vtm": "CHA",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100084,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MEM",
+    "vtm": "MIA",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100104,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "MIA",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100121,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "MIA",
+    "vtm": "BOS",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100134,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "MIA",
+    "vtm": "UTA",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100151,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "MIA",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100170,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "MIA",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100173,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "MIA",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100185,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "MIA",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100217,
+    "team1_id": 1610612740,
+    "team1_name": "New Orleans Pelicans",
+    "htm": "MIA",
+    "vtm": "NOP",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100225,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "MIA",
+    "vtm": "WAS",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100241,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "MIA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100263,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "MIA",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100274,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "MIA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100296,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "MIA",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100306,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "MIA",
+    "vtm": "DEN",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100323,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "MIA",
+    "vtm": "CLE",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100333,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "MIA",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100344,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "MIA",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100356,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "MIA",
+    "vtm": "MEM",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612748,
+    "team2_name": "Miami Heat"
+  },
+  {
+    "game_id": 22100010,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "SAS",
+    "vtm": "ORL",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100024,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "SAS",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100032,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "SAS",
+    "vtm": "MIL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100053,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "SAS",
+    "vtm": "LAL",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100069,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "SAS",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100085,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "SAS",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100095,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "SAS",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100116,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "SAS",
+    "vtm": "DAL",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100125,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "SAS",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100166,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAS",
+    "vtm": "SAC",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100181,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "SAS",
+    "vtm": "DAL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100192,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "SAS",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100212,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "SAS",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100227,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "SAS",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100260,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "SAS",
+    "vtm": "PHX",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100277,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "SAS",
+    "vtm": "ATL",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100287,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "SAS",
+    "vtm": "BOS",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100311,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "SAS",
+    "vtm": "WAS",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100346,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "SAS",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100360,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "SAS",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100364,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "SAS",
+    "vtm": "NYK",
+    "game_date": "2021-12-07",
+    "team2_id": 1610612759,
+    "team2_name": "San Antonio Spurs"
+  },
+  {
+    "game_id": 22100009,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "NOP",
+    "vtm": "PHI",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100022,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "NOP",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100031,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "NOP",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100047,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "NOP",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100059,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "NOP",
+    "vtm": "ATL",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100074,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "NOP",
+    "vtm": "SAC",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100080,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NOP",
+    "vtm": "NYK",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100106,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "PHX",
+    "vtm": "NOP",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100118,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "NOP",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100130,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "NOP",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100150,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "NOP",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100179,
+    "team1_id": 1610612751,
+    "team1_name": "Brooklyn Nets",
+    "htm": "NOP",
+    "vtm": "BKN",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100188,
+    "team1_id": 1610612763,
+    "team1_name": "Memphis Grizzlies",
+    "htm": "NOP",
+    "vtm": "MEM",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100201,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "NOP",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100235,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "NOP",
+    "vtm": "LAC",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100240,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "NOP",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100259,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "NOP",
+    "vtm": "MIN",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100275,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "NOP",
+    "vtm": "WAS",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100289,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "NOP",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100299,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "NOP",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100313,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "NOP",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100325,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "NOP",
+    "vtm": "DAL",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100338,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "NOP",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100352,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "NOP",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612740,
+    "team2_name": "New Orleans Pelicans"
+  },
+  {
+    "game_id": 22100007,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "MEM",
+    "vtm": "CLE",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100034,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "MEM",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100040,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "LAL",
+    "vtm": "MEM",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100070,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "MEM",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100100,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "MEM",
+    "vtm": "DEN",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100114,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "MEM",
+    "vtm": "DEN",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100126,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "MEM",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100149,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MEM",
+    "vtm": "MIN",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100164,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "MEM",
+    "vtm": "CHA",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100178,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "MEM",
+    "vtm": "PHX",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100205,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "MEM",
+    "vtm": "HOU",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100226,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "MEM",
+    "vtm": "LAC",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100245,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "MEM",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100261,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "MEM",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100272,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "MEM",
+    "vtm": "TOR",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100285,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "MEM",
+    "vtm": "ATL",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100303,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "MEM",
+    "vtm": "SAC",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100315,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "MEM",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100345,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "MEM",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612763,
+    "team2_name": "Memphis Grizzlies"
+  },
+  {
+    "game_id": 22100001,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "BKN",
+    "game_date": "2021-10-19",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100021,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "BKN",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100035,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "BKN",
+    "vtm": "CHA",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100044,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "BKN",
+    "vtm": "WAS",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100072,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "BKN",
+    "vtm": "IND",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100092,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "BKN",
+    "vtm": "DET",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100113,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "BKN",
+    "vtm": "ATL",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100124,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "BKN",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100139,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "BKN",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100148,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "CHI",
+    "vtm": "BKN",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100159,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "ORL",
+    "vtm": "BKN",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100210,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "BKN",
+    "vtm": "GSW",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100216,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "BKN",
+    "vtm": "CLE",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100233,
+    "team1_id": 1610612753,
+    "team1_name": "Orlando Magic",
+    "htm": "BKN",
+    "vtm": "ORL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100253,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "BKN",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100270,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "BKN",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100294,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "BKN",
+    "vtm": "PHX",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100314,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "BKN",
+    "vtm": "NYK",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100336,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "BKN",
+    "vtm": "MIN",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100343,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "BKN",
+    "vtm": "CHI",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100363,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "BKN",
+    "game_date": "2021-12-07",
+    "team2_id": 1610612751,
+    "team2_name": "Brooklyn Nets"
+  },
+  {
+    "game_id": 22100018,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "ORL",
+    "vtm": "NYK",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100036,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "ORL",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100055,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "ORL",
+    "vtm": "CHA",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100071,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "ORL",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100079,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "ORL",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100101,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "ORL",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100110,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "ORL",
+    "vtm": "BOS",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100141,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "ORL",
+    "vtm": "UTA",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100187,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "ORL",
+    "vtm": "WAS",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100202,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "ORL",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100218,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "ORL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100244,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "ORL",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100258,
+    "team1_id": 1610612749,
+    "team1_name": "Milwaukee Bucks",
+    "htm": "MIL",
+    "vtm": "ORL",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100269,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "ORL",
+    "vtm": "CHA",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100283,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "ORL",
+    "vtm": "CHI",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100295,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "ORL",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100305,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "ORL",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100320,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "ORL",
+    "vtm": "DEN",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100337,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "ORL",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100361,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "ORL",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612753,
+    "team2_name": "Orlando Magic"
+  },
+  {
+    "game_id": 22100042,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "MIL",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100060,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIL",
+    "vtm": "MIN",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100091,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "MIL",
+    "vtm": "UTA",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100103,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "MIL",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100128,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "MIL",
+    "vtm": "NYK",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100142,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "MIL",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100155,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "MIL",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100161,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "MIL",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100175,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "MIL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100193,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "MIL",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100219,
+    "team1_id": 1610612747,
+    "team1_name": "Los Angeles Lakers",
+    "htm": "MIL",
+    "vtm": "LAL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100273,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "MIL",
+    "vtm": "DET",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100288,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "MIL",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100301,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "MIL",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100324,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "MIL",
+    "vtm": "CHA",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100329,
+    "team1_id": 1610612761,
+    "team1_name": "Toronto Raptors",
+    "htm": "TOR",
+    "vtm": "MIL",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100358,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "MIL",
+    "vtm": "CLE",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612749,
+    "team2_name": "Milwaukee Bucks"
+  },
+  {
+    "game_id": 22100002,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "LAL",
+    "vtm": "GSW",
+    "game_date": "2021-10-19",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100025,
+    "team1_id": 1610612756,
+    "team1_name": "Phoenix Suns",
+    "htm": "LAL",
+    "vtm": "PHX",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100077,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "LAL",
+    "vtm": "CLE",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100093,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "LAL",
+    "vtm": "HOU",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100107,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "LAL",
+    "vtm": "HOU",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100154,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "LAL",
+    "vtm": "CHA",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100184,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "LAL",
+    "vtm": "MIN",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100209,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "LAL",
+    "vtm": "CHI",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100232,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "LAL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100249,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "LAL",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100264,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "LAL",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100268,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "LAL",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100291,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "LAL",
+    "vtm": "SAC",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100304,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "LAL",
+    "vtm": "DET",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100318,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "LAL",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100341,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAL",
+    "vtm": "LAC",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612747,
+    "team2_name": "Los Angeles Lakers"
+  },
+  {
+    "game_id": 22100006,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "TOR",
+    "vtm": "WAS",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100020,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "TOR",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100029,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "TOR",
+    "vtm": "DAL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100046,
+    "team1_id": 1610612741,
+    "team1_name": "Chicago Bulls",
+    "htm": "TOR",
+    "vtm": "CHI",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100058,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "TOR",
+    "vtm": "IND",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100081,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "TOR",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100099,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "TOR",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100112,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "TOR",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100127,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "TOR",
+    "vtm": "CLE",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100160,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "TOR",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100171,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "TOR",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100189,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "TOR",
+    "vtm": "DET",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100229,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "TOR",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100238,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "TOR",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100252,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "TOR",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100284,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "TOR",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100302,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "TOR",
+    "vtm": "BOS",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100351,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "TOR",
+    "vtm": "WAS",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612761,
+    "team2_name": "Toronto Raptors"
+  },
+  {
+    "game_id": 22100004,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "CHI",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100030,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "CHI",
+    "vtm": "DET",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100067,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "CHI",
+    "vtm": "NYK",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100083,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "CHI",
+    "vtm": "UTA",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100098,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "CHI",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100111,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "CHI",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100135,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "CHI",
+    "vtm": "PHI",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100163,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "CHI",
+    "vtm": "DAL",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100183,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "CHI",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100198,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "CHI",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100236,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "CHI",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100250,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "CHI",
+    "vtm": "NYK",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100257,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "CHI",
+    "vtm": "IND",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100271,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "CHI",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100307,
+    "team1_id": 1610612766,
+    "team1_name": "Charlotte Hornets",
+    "htm": "CHI",
+    "vtm": "CHA",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100328,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "CHI",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100357,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "CHI",
+    "vtm": "DEN",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612741,
+    "team2_name": "Chicago Bulls"
+  },
+  {
+    "game_id": 22100012,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "PHX",
+    "vtm": "DEN",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100062,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "PHX",
+    "vtm": "SAC",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100088,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "PHX",
+    "vtm": "CLE",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100122,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "PHX",
+    "vtm": "HOU",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100137,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "PHX",
+    "vtm": "ATL",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100153,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "PHX",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100195,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "PHX",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100206,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "PHX",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100222,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "PHX",
+    "vtm": "DAL",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100237,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "PHX",
+    "vtm": "DAL",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100251,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "PHX",
+    "vtm": "DEN",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100267,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "PHX",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100282,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "NYK",
+    "vtm": "PHX",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100316,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "PHX",
+    "vtm": "GSW",
+    "game_date": "2021-11-30",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100331,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "PHX",
+    "vtm": "DET",
+    "game_date": "2021-12-02",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100340,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "PHX",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612756,
+    "team2_name": "Phoenix Suns"
+  },
+  {
+    "game_id": 22100003,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "CHA",
+    "vtm": "IND",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100017,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "CHA",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100041,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "CHA",
+    "vtm": "BOS",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100094,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CHA",
+    "vtm": "CLE",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100117,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "CHA",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100132,
+    "team1_id": 1610612758,
+    "team1_name": "Sacramento Kings",
+    "htm": "SAC",
+    "vtm": "CHA",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100146,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "CHA",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100174,
+    "team1_id": 1610612752,
+    "team1_name": "New York Knicks",
+    "htm": "CHA",
+    "vtm": "NYK",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100194,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "CHA",
+    "vtm": "GSW",
+    "game_date": "2021-11-14",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100213,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "CHA",
+    "vtm": "WAS",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100230,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "CHA",
+    "vtm": "IND",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100242,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "CHA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100254,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "WAS",
+    "vtm": "CHA",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100281,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "CHA",
+    "vtm": "MIN",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100297,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "CHA",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100350,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "CHA",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100353,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "CHA",
+    "vtm": "PHI",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612766,
+    "team2_name": "Charlotte Hornets"
+  },
+  {
+    "game_id": 22100026,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "SAC",
+    "vtm": "UTA",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100039,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "SAC",
+    "vtm": "GSW",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100089,
+    "team1_id": 1610612742,
+    "team1_name": "Dallas Mavericks",
+    "htm": "DAL",
+    "vtm": "SAC",
+    "game_date": "2021-10-31",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100105,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "SAC",
+    "game_date": "2021-11-02",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100143,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "SAC",
+    "vtm": "IND",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100200,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "SAC",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100220,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "SAC",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100247,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "SAC",
+    "vtm": "UTA",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100262,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "SAC",
+    "vtm": "PHI",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100327,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "SAC",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100348,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "SAC",
+    "vtm": "LAC",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612758,
+    "team2_name": "Sacramento Kings"
+  },
+  {
+    "game_id": 22100014,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "DAL",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100052,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "DAL",
+    "vtm": "HOU",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100075,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DEN",
+    "vtm": "DAL",
+    "game_date": "2021-10-29",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100136,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "DAL",
+    "vtm": "BOS",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100204,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "DAL",
+    "vtm": "DEN",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100248,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "DAL",
+    "game_date": "2021-11-21",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100266,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "DAL",
+    "game_date": "2021-11-23",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100298,
+    "team1_id": 1610612764,
+    "team1_name": "Washington Wizards",
+    "htm": "DAL",
+    "vtm": "WAS",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100310,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "DAL",
+    "vtm": "CLE",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612742,
+    "team2_name": "Dallas Mavericks"
+  },
+  {
+    "game_id": 22100005,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "NYK",
+    "vtm": "BOS",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100050,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "NYK",
+    "vtm": "PHI",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100109,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "NYK",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100140,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "NYK",
+    "vtm": "CLE",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100147,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "NYK",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100203,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "NYK",
+    "vtm": "IND",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100239,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "NYK",
+    "vtm": "HOU",
+    "game_date": "2021-11-20",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100293,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "NYK",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100342,
+    "team1_id": 1610612743,
+    "team1_name": "Denver Nuggets",
+    "htm": "NYK",
+    "vtm": "DEN",
+    "game_date": "2021-12-04",
+    "team2_id": 1610612752,
+    "team2_name": "New York Knicks"
+  },
+  {
+    "game_id": 22100048,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "DEN",
+    "vtm": "CLE",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100054,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "DEN",
+    "game_date": "2021-10-26",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100087,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "MIN",
+    "vtm": "DEN",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100133,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "DEN",
+    "vtm": "HOU",
+    "game_date": "2021-11-06",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100167,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "DEN",
+    "vtm": "IND",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100182,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "DEN",
+    "vtm": "ATL",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100228,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "DEN",
+    "vtm": "PHI",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612743,
+    "team2_name": "Denver Nuggets"
+  },
+  {
+    "game_id": 22100019,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "WAS",
+    "vtm": "IND",
+    "game_date": "2021-10-22",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100056,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "WAS",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100066,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "WAS",
+    "vtm": "ATL",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100078,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "WAS",
+    "vtm": "BOS",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100097,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "ATL",
+    "vtm": "WAS",
+    "game_date": "2021-11-01",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100158,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "CLE",
+    "vtm": "WAS",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100321,
+    "team1_id": 1610612750,
+    "team1_name": "Minnesota Timberwolves",
+    "htm": "WAS",
+    "vtm": "MIN",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100334,
+    "team1_id": 1610612739,
+    "team1_name": "Cleveland Cavaliers",
+    "htm": "WAS",
+    "vtm": "CLE",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100355,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "WAS",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612764,
+    "team2_name": "Washington Wizards"
+  },
+  {
+    "game_id": 22100008,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "MIN",
+    "vtm": "HOU",
+    "game_date": "2021-10-20",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100115,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "MIN",
+    "vtm": "LAC",
+    "game_date": "2021-11-03",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100129,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "MIN",
+    "vtm": "LAC",
+    "game_date": "2021-11-05",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100169,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "MIN",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100191,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "MIN",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100292,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "MIN",
+    "game_date": "2021-11-27",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100309,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "MIN",
+    "vtm": "IND",
+    "game_date": "2021-11-29",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100359,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "MIN",
+    "vtm": "ATL",
+    "game_date": "2021-12-06",
+    "team2_id": 1610612750,
+    "team2_name": "Minnesota Timberwolves"
+  },
+  {
+    "game_id": 22100027,
+    "team1_id": 1610612737,
+    "team1_name": "Atlanta Hawks",
+    "htm": "CLE",
+    "vtm": "ATL",
+    "game_date": "2021-10-23",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100064,
+    "team1_id": 1610612746,
+    "team1_name": "LA Clippers",
+    "htm": "LAC",
+    "vtm": "CLE",
+    "game_date": "2021-10-27",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100176,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "CLE",
+    "vtm": "DET",
+    "game_date": "2021-11-12",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100190,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "CLE",
+    "vtm": "BOS",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100199,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "CLE",
+    "vtm": "BOS",
+    "game_date": "2021-11-15",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100224,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "CLE",
+    "vtm": "GSW",
+    "game_date": "2021-11-18",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100349,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "CLE",
+    "vtm": "UTA",
+    "game_date": "2021-12-05",
+    "team2_id": 1610612739,
+    "team2_name": "Cleveland Cavaliers"
+  },
+  {
+    "game_id": 22100043,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "ATL",
+    "vtm": "DET",
+    "game_date": "2021-10-25",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100082,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "ATL",
+    "game_date": "2021-10-30",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100120,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "ATL",
+    "vtm": "UTA",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100152,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "ATL",
+    "game_date": "2021-11-08",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100156,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "ATL",
+    "game_date": "2021-11-09",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100215,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "ATL",
+    "vtm": "BOS",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100319,
+    "team1_id": 1610612754,
+    "team1_name": "Indiana Pacers",
+    "htm": "IND",
+    "vtm": "ATL",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100335,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "ATL",
+    "vtm": "PHI",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612737,
+    "team2_name": "Atlanta Hawks"
+  },
+  {
+    "game_id": 22100016,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "GSW",
+    "vtm": "LAC",
+    "game_date": "2021-10-21",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100280,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "LAC",
+    "vtm": "DET",
+    "game_date": "2021-11-26",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100300,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "LAC",
+    "vtm": "GSW",
+    "game_date": "2021-11-28",
+    "team2_id": 1610612746,
+    "team2_name": "LA Clippers"
+  },
+  {
+    "game_id": 22100172,
+    "team1_id": 1610612762,
+    "team1_name": "Utah Jazz",
+    "htm": "UTA",
+    "vtm": "IND",
+    "game_date": "2021-11-11",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100186,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "IND",
+    "vtm": "PHI",
+    "game_date": "2021-11-13",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100214,
+    "team1_id": 1610612765,
+    "team1_name": "Detroit Pistons",
+    "htm": "DET",
+    "vtm": "IND",
+    "game_date": "2021-11-17",
+    "team2_id": 1610612754,
+    "team2_name": "Indiana Pacers"
+  },
+  {
+    "game_id": 22100068,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "UTA",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100211,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "UTA",
+    "vtm": "PHI",
+    "game_date": "2021-11-16",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100339,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "UTA",
+    "vtm": "BOS",
+    "game_date": "2021-12-03",
+    "team2_id": 1610612762,
+    "team2_name": "Utah Jazz"
+  },
+  {
+    "game_id": 22100065,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "PHI",
+    "vtm": "DET",
+    "game_date": "2021-10-28",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100119,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "DET",
+    "vtm": "PHI",
+    "game_date": "2021-11-04",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100162,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "DET",
+    "game_date": "2021-11-10",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100231,
+    "team1_id": 1610612744,
+    "team1_name": "Golden State Warriors",
+    "htm": "DET",
+    "vtm": "GSW",
+    "game_date": "2021-11-19",
+    "team2_id": 1610612765,
+    "team2_name": "Detroit Pistons"
+  },
+  {
+    "game_id": 22100145,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "GSW",
+    "vtm": "HOU",
+    "game_date": "2021-11-07",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100278,
+    "team1_id": 1610612755,
+    "team1_name": "Philadelphia 76ers",
+    "htm": "GSW",
+    "vtm": "PHI",
+    "game_date": "2021-11-24",
+    "team2_id": 1610612744,
+    "team2_name": "Golden State Warriors"
+  },
+  {
+    "game_id": 22100322,
+    "team1_id": 1610612738,
+    "team1_name": "Boston Celtics",
+    "htm": "BOS",
+    "vtm": "PHI",
+    "game_date": "2021-12-01",
+    "team2_id": 1610612755,
+    "team2_name": "Philadelphia 76ers"
+  },
+  {
+    "game_id": 22100037,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "HOU",
+    "vtm": "BOS",
+    "game_date": "2021-10-24",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  },
+  {
+    "game_id": 22100256,
+    "team1_id": 1610612745,
+    "team1_name": "Houston Rockets",
+    "htm": "BOS",
+    "vtm": "HOU",
+    "game_date": "2021-11-22",
+    "team2_id": 1610612738,
+    "team2_name": "Boston Celtics"
+  }
+]
