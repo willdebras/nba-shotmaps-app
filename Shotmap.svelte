@@ -2,6 +2,7 @@
   import * as d3 from "d3";
   import courtpoints from "./public/courtpoints.json";
   import courtnested from "./public/courtnested.json";
+  import scores from "./public/scores.json";
   import allshots from "./public/test.json";
   import { fade, fly } from "svelte/transition";
   import { elasticOut } from "svelte/easing";
@@ -44,10 +45,27 @@
     }
   };
 
+  const filterScores = function(value) {
+    if (value.length > 0) {
+      const id = value[0];
+      const obj_scores = scores.filter(d => d.game_id === id);
+
+      const left_score = obj_scores.filter(d => d.team_name === team1);
+      const right_score = obj_scores.filter(d => d.team_name === team2);
+
+      return [left_score[0].score, right_score[0].score];
+    } else {
+      return [];
+    }
+  };
+
   $: shotsquery = filterData(gameinfo);
   $: shotnumbers = Array(shotsquery.length)
     .fill()
     .map((element, index) => index);
+
+  $: scorequery = filterScores(gameinfo);
+  $: console.log(scorequery);
 
   const debug = function(value) {
     if (shotsquery.length > 0) {
@@ -150,11 +168,14 @@
   export let team2;
 </script>
 
+<div class="versusbox">
 {#if team2}
 <h2>
-{team1} v. {team2}
+{team1.toUpperCase()} v. {team2.toUpperCase()}
 </h2>
 {/if}
+</div>
+
 
 <div class="wrapper" on:mousemove={(e)=>{
     const bounds = e.target.getBoundingClientRect()
@@ -166,7 +187,14 @@
     }} bind:clientHeight={height} style="width: {width}px;">
 
 
-  <div class = "bleachers" id="bleachers-left"></div>
+  <div class = "bleachers" id="bleachers-left">
+
+    <div class = "metrics-box">
+      <h2>Score:</h2>
+      {#if shotsquery.length>0}<h1>{scorequery[0]}</h1>{/if}
+    </div>
+  
+  </div>
 
   <ZoomSvg bind:translateVar={translateVar} viewBox = "-30 -5 60 55">
 
@@ -211,7 +239,10 @@
   </ZoomSvg>
 
     <div class = "bleachers" id="bleachers-right">
-    <div class = "metrics-box"></div>
+      <div class = "metrics-box">
+          <h2>Score:</h2>
+          {#if shotsquery.length>0}<h1>{scorequery[1]}</h1>{/if}
+      </div>
     </div>
 
     <!-- style="transform-origin:left;
@@ -235,6 +266,17 @@
 </div>
 
 <style>
+  .versusbox {
+    font-family: Graduate, sans-serif;
+    height: 40px;
+    margin: 14px 0px;
+  }
+  .versusbox > h2 {
+    margin: 0;
+    font-size: 32px;
+    color: hsl(0, 0%, 25%);
+  }
+
   .wrapper {
     position: relative;
     display: flex;
