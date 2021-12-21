@@ -49,7 +49,8 @@
   {/each}
 </select>
 
-<Shotmap gameinfo={gameid} team1={team1} team2={team2}></Shotmap>
+  <Shotmap gameinfo={gameid} team1={team1} team2={team2}></Shotmap>
+
 
 <style>
   span {

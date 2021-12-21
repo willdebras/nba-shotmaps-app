@@ -51,8 +51,7 @@
 
   const debug = function(value) {
     if (shotsquery.length > 0) {
-      console.log(value.event_type);
-      console.log(colorScale(value.event_type));
+      console.log(shotsquery);
     }
   };
 
@@ -143,6 +142,8 @@
 
   //$: tooltipBody = calculateTooltip(shotsquery[0]);
 
+  // hot metrics
+
   export let paints = Object.keys(courtnested);
   export let gameinfo;
   export let team1;
@@ -163,6 +164,9 @@
     //console.log(pointIndex)
     //hoveredShot = points[pointIndex]
     }} bind:clientHeight={height} style="width: {width}px;">
+
+
+  <div class = "bleachers" id="bleachers-left"></div>
 
   <ZoomSvg bind:translateVar={translateVar} viewBox = "-30 -5 60 55">
 
@@ -206,6 +210,10 @@
     </g>
   </ZoomSvg>
 
+    <div class = "bleachers" id="bleachers-right">
+    <div class = "metrics-box"></div>
+    </div>
+
     <!-- style="transform-origin:left;
          transform: translate(calc(-50% + {xPos}px + {xPosZoom}px),
                               calc(-100% + {yPos}px + {yPosZoom}px - 8px));  -->
@@ -220,7 +228,7 @@
     </div>
     <hr>
     <div class="tooltip-league-average">
-      League average shot percentage from this position:<span id="league-average">{Math.trunc(league_av*100)}%</span>
+      League average shot percentage from this position: <span id="league-average">{Math.trunc(league_av*100)}%</span>
     </div>
   </div>
 
@@ -233,6 +241,57 @@
     flex-direction: column;
     height: 80vh;
     margin: auto;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-content: space-around;
+    justify-content: baseline;
+  }
+
+  .bleachers {
+    height: 90%;
+    width: 160px;
+    border: 1px solid hsl(0.97, 92%, 41%);
+    background-color: #f4cdd4;
+    opacity: 0.8;
+    background-size: 20px 20px;
+  }
+
+  #bleachers-left {
+    background-image: repeating-linear-gradient(
+      to right,
+      black,
+      darkgrey 1px,
+      lightgrey 3px,
+      hsl(0.97, 92%, 92%) 1px,
+      hsl(0.97, 92%, 92%)
+    );
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
+      rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  }
+
+  #bleachers-right {
+    background-image: repeating-linear-gradient(
+      to left,
+      black,
+      darkgrey 1px,
+      lightgrey 3px,
+      hsl(0.97, 92%, 92%) 1px,
+      hsl(0.97, 92%, 92%)
+    );
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
+      rgb(209, 213, 219) 0px 0px 0px 1px inset;
+  }
+
+  .metrics-box {
+    width: 135px;
+    height: 150px;
+    border: 1px solid hsla(0.97, 92%, 41%, 0.7);
+    background-color: hsla(0.97, 92%, 70%, 0.25);
+    margin: 10px;
+    margin-top: 20px;
+    backdrop-filter: blur(6px);
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
+      rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
   }
 
   .tooltip-static {
