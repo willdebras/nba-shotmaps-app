@@ -293,7 +293,7 @@
   .versusbox {
     font-family: Graduate, sans-serif;
     height: 40px;
-    margin: 14px 0px;
+    margin: 14px 0px 16px 0;
   }
   .versusbox > h2 {
     margin: 0;
@@ -327,7 +327,7 @@
       to right,
       black,
       darkgrey 1px,
-      lightgrey 3px,
+      lightgrey 4px,
       hsl(349, 92%, 92%) 1px,
       hsl(349, 92%, 92%)
     );
@@ -340,7 +340,7 @@
       to left,
       black,
       darkgrey 1px,
-      lightgrey 3px,
+      lightgrey 4px,
       hsl(349, 92%, 92%) 1px,
       hsl(349, 92%, 92%)
     );
