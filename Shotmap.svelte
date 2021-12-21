@@ -8,9 +8,13 @@
   import { elasticOut } from "svelte/easing";
   import ZoomSvg from "./Svgzoom.svelte";
 
+  // defining defaults for height and width that will be updated by the client bounding rect
+
   let wrapper;
   let height = 800;
   $: width = height;
+
+  // accessor functions, scales, and d3.line calls for the plotting of the court "paint"
 
   $: yAccessor = d => d.y;
   $: xAccessor = d => d.x;
@@ -30,6 +34,8 @@
     .line()
     .x(d => xAccessor(d))
     .y(d => yAccessor(d));
+
+  // functions to filter the shots data and filter scores and metrics data
 
   const filterData = function(value) {
     if (value.length > 0) {
@@ -59,19 +65,22 @@
     }
   };
 
+  // reactive variables that query shots data, score data, etc. when the gameinfo prop is updated with the selectors
+
   $: shotsquery = filterData(gameinfo);
   $: shotnumbers = Array(shotsquery.length)
     .fill()
     .map((element, index) => index);
 
   $: scorequery = filterScores(gameinfo);
-  $: console.log(scorequery);
 
   const debug = function(value) {
     if (shotsquery.length > 0) {
       console.log(shotsquery);
     }
   };
+
+  // scales for the circle element's color and width based on made and missed shots
 
   let colorScale = d3
     .scaleOrdinal()
@@ -83,11 +92,16 @@
     .domain(["Made Shot", "Missed Shot"])
     .range([0.2, 0.1]);
 
+  // empty variables that will get updated for the tooltip
+
   let tooltipBody = "";
   let xPos = 0;
   let yPos = 0;
   let opac = 0;
   let league_av = "";
+
+  // tooltip scales, domain is viewbox, range is dimensions
+  // used to calculate translations on the zoom svg
 
   $: yScaleTooltip = d3
     .scaleLinear()
@@ -98,6 +112,8 @@
     .scaleLinear()
     .domain([-30, 30])
     .range([0, width]);
+
+  // assigning the position translations, tooltip string, and other variables for the tooltip
 
   let calculateTooltip = function(d) {
     if (shotsquery.length > 0) {
@@ -126,7 +142,13 @@
     }
   };
 
+  // default variable on no translation on x and y, with a scale of 1
+
   let translateVar = [0, 0, 1];
+
+  // tooltip position calculations
+  // receives this translateVar prop from svgzoom.svelte
+  // xpos and ypos are calculated as a translation of pixels if the zoom is 1, otherwise lock the tooltip at the bottom
 
   $: scaleZoom = translateVar[2];
   $: xPosZoom =
@@ -138,6 +160,8 @@
     opac = 0;
     league_av = "";
   };
+
+  // work in progress transition function to transition the width of the circle
 
   function transitionCircle(node, { delay = 0, duration = 400 }) {
     const o = +getComputedStyle(node).r;
@@ -191,7 +215,7 @@
 
     <div class = "metrics-box">
       <h2>Score:</h2>
-      {#if shotsquery.length>0}<h1>{scorequery[0]}</h1>{/if}
+      {#if scorequery.length>0}<h1>{scorequery[0]}</h1>{/if}
     </div>
   
   </div>
@@ -241,7 +265,7 @@
     <div class = "bleachers" id="bleachers-right">
       <div class = "metrics-box">
           <h2>Score:</h2>
-          {#if shotsquery.length>0}<h1>{scorequery[1]}</h1>{/if}
+          {#if scorequery.length>0}<h1>{scorequery[1]}</h1>{/if}
       </div>
     </div>
 
