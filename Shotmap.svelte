@@ -250,7 +250,7 @@
   .bleachers {
     height: 90%;
     width: 160px;
-    border: 1px solid hsl(0.97, 92%, 41%);
+    border: 1px solid hsl(349, 92%, 41%);
     background-color: #f4cdd4;
     opacity: 0.8;
     background-size: 20px 20px;
@@ -262,8 +262,8 @@
       black,
       darkgrey 1px,
       lightgrey 3px,
-      hsl(0.97, 92%, 92%) 1px,
-      hsl(0.97, 92%, 92%)
+      hsl(349, 92%, 92%) 1px,
+      hsl(349, 92%, 92%)
     );
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
       rgb(209, 213, 219) 0px 0px 0px 1px inset;
@@ -275,8 +275,8 @@
       black,
       darkgrey 1px,
       lightgrey 3px,
-      hsl(0.97, 92%, 92%) 1px,
-      hsl(0.97, 92%, 92%)
+      hsl(349, 92%, 92%) 1px,
+      hsl(349, 92%, 92%)
     );
     box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px,
       rgb(209, 213, 219) 0px 0px 0px 1px inset;
@@ -285,13 +285,14 @@
   .metrics-box {
     width: 135px;
     height: 150px;
-    border: 1px solid hsla(0.97, 92%, 41%, 0.7);
-    background-color: hsla(0.97, 92%, 70%, 0.25);
+    border: 1px solid hsla(349, 92%, 41%, 0.7);
+    background-color: hsla(349, 92%, 70%, 0.25);
     margin: 10px;
     margin-top: 20px;
     backdrop-filter: blur(6px);
     box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px,
       rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    background-color: hsl(219, 72%, 60%, 0.3);
   }
 
   .tooltip-static {
