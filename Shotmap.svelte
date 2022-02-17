@@ -217,6 +217,8 @@
       <h2>Score:</h2>
       {#if scorequery.length>0}<h1>{scorequery[0]}</h1>{/if}
     </div>
+    <div class = "metrics-box">
+    </div>
   
   </div>
 
@@ -267,6 +269,8 @@
           <h2>Score:</h2>
           {#if scorequery.length>0}<h1>{scorequery[1]}</h1>{/if}
       </div>
+    <div class = "metrics-box">
+    </div>
     </div>
 
     <!-- style="transform-origin:left;
