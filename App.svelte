@@ -4,6 +4,13 @@
   import Svgzoom from "./Svgzoom.svelte";
 </script>
 
+<svelte:head>
+<style>
+  @import url("https://fonts.googleapis.com/css?family=Graduate&display=swap");
+  @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+</style>
+</svelte:head>
+
 <style>
   main {
     font-family: sans-serif;
