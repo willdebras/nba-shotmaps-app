@@ -7,3 +7,7 @@ Repository housing an application built in svelte to visualize NBA shotmaps in D
 The live application can be found here:
 
 https://nba-shotmaps.vercel.app/
+
+A sandbox deployment can be found here:
+
+https://codesandbox.io/s/github/willdebras/nba-shotmaps-app
