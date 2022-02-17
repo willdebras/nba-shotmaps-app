@@ -18,6 +18,7 @@
     "@svelte-parts/zoom": "0.0.20",
     "d3": "7.2.0",
     "lodash": "4.17.21",
+    "lodash.uniq": "4.5.0",
     "svelte": "3.43.0",
     "svelte-fa": "2.4.0"
   },

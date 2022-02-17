@@ -1,20 +1,20 @@
 <script>
   import matchups from "./public/matchups.json";
-  import * as lodash from "lodash";
+  import uniq from "lodash/uniq";
   import Shotmap from "./Shotmap.svelte";
 
   const team1_array = matchups.map(a => a["team1_name"]);
-  const team1_select = lodash.uniq(team1_array);
+  const team1_select = uniq(team1_array);
 
   $: team2_array = matchups
     .filter(d => d.team2_name.includes(team1))
     .map(a => a["team1_name"]);
-  $: team2_select = lodash.uniq(team2_array);
+  $: team2_select = uniq(team2_array);
 
   $: date_array = matchups
     .filter(d => d.team1_name.includes(team1) && d.team2_name.includes(team2))
     .map(a => a["game_date"]);
-  $: date_select = lodash.uniq(date_array);
+  $: date_select = uniq(date_array);
 
   $: gameid = matchups
     .filter(
